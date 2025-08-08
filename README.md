@@ -4,7 +4,7 @@
 
 
 # For Running the hashpus.sh 
-- intall it from my reporsitory
+- install it from my reporsitory
 - chmod +x hashpus.sh
 - run it using : ./hashpus.sh
 
