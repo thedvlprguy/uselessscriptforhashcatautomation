@@ -7,5 +7,8 @@
 - install it from my reporsitory
 - chmod +x hashpus.sh
 - run it using : ./hashpus.sh
+- after running this script , find the hash-mode. if not given in my list. you can select option 7)  not available , if that won't work
+- use `-m hash-mode number` and that's it
+
 
 ### Feel Free to Contribute Here :)
